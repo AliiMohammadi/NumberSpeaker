@@ -26,14 +26,26 @@ namespace Number_speaker_Projects
         }
         private void button1_Click(object sender, EventArgs e)
         {
-            Execute(numberTXT.Text);
+            Execute();
         }
         private void numberTXT_KeyPress(object sender, KeyPressEventArgs e)
         {
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
                 e.Handled = true;
         }
+        protected override bool ProcessCmdKey(ref Message msg, Keys keyData)
+        {
+            if (keyData == Keys.Enter)
+                Execute();
 
+
+            return base.ProcessCmdKey(ref msg, keyData);
+        }
+
+        void Execute()
+        {
+            Execute(numberTXT.Text);
+        }
         void Execute(string InputText)
         {
             try
@@ -62,8 +74,10 @@ namespace Number_speaker_Projects
             catch (Exception r)
             {
                 MessageBox.Show("Error:" + r.Message);
+                numberTXT.Clear();
             }
         }
+
         void SaySequence(List<string> list)
         {
             foreach (var item in list)

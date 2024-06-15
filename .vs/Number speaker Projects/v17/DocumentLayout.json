@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{3B311DB5-B326-48B7-B791-389F63ADB33B}|Number speaker Projects\\Number speaker Projects.csproj|solutionrelative:number speaker projects\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B311DB5-B326-48B7-B791-389F63ADB33B}|Number speaker Projects\\Number speaker Projects.csproj|d:\\developing\\application projects\\number speaker projects\\number speaker projects\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B311DB5-B326-48B7-B791-389F63ADB33B}|Number speaker Projects\\Number speaker Projects.csproj|D:\\Developing\\Application Projects\\Number speaker Projects\\number speaker projects\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B311DB5-B326-48B7-B791-389F63ADB33B}|Number speaker Projects\\Number speaker Projects.csproj|solutionrelative:number speaker projects\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B311DB5-B326-48B7-B791-389F63ADB33B}|Number speaker Projects\\Number speaker Projects.csproj|d:\\developing\\application projects\\number speaker projects\\number speaker projects\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{3B311DB5-B326-48B7-B791-389F63ADB33B}|Number speaker Projects\\Number speaker Projects.csproj|D:\\Developing\\Application Projects\\Number speaker Projects\\number speaker projects\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3B311DB5-B326-48B7-B791-389F63ADB33B}|Number speaker Projects\\Number speaker Projects.csproj|solutionrelative:number speaker projects\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -19,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{3B311DB5-B326-48B7-B791-389F63ADB33B}|Number speaker Projects\\Number speaker Projects.csproj|solutionrelative:number speaker projects\\translator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B311DB5-B326-48B7-B791-389F63ADB33B}|Number speaker Projects\\Number speaker Projects.csproj|d:\\developing\\application projects\\number speaker projects\\number speaker projects\\speaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B311DB5-B326-48B7-B791-389F63ADB33B}|Number speaker Projects\\Number speaker Projects.csproj|D:\\Developing\\Application Projects\\Number speaker Projects\\number speaker projects\\speaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B311DB5-B326-48B7-B791-389F63ADB33B}|Number speaker Projects\\Number speaker Projects.csproj|solutionrelative:number speaker projects\\speaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -58,8 +58,7 @@
               "RelativeToolTip": "Number speaker Projects\\AudioPlayer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T13:25:24.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T13:25:24.197Z"
             },
             {
               "$type": "Document",
@@ -69,7 +68,7 @@
               "RelativeDocumentMoniker": "Number speaker Projects\\Form1.cs",
               "ToolTip": "D:\\Developing\\Application Projects\\Number speaker Projects\\Number speaker Projects\\Form1.cs",
               "RelativeToolTip": "Number speaker Projects\\Form1.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwDAAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T13:05:10.473Z",
               "EditorCaption": ""
@@ -84,8 +83,7 @@
               "RelativeToolTip": "Number speaker Projects\\Translator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T12:52:12.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T12:52:12.875Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "Number speaker Projects\\Speaker.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T13:17:20.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T13:17:20.531Z"
             }
           ]
         }
