@@ -1,0 +1,11 @@
+D:\Developing\Application Projects\Number speaker Projects\Number speaker Projects\bin\Debug\Number speaker Projects.exe.config
+D:\Developing\Application Projects\Number speaker Projects\Number speaker Projects\bin\Debug\Number speaker Projects.exe
+D:\Developing\Application Projects\Number speaker Projects\Number speaker Projects\bin\Debug\Number speaker Projects.pdb
+D:\Developing\Application Projects\Number speaker Projects\Number speaker Projects\obj\Debug\Number speaker Projects.csproj.AssemblyReference.cache
+D:\Developing\Application Projects\Number speaker Projects\Number speaker Projects\obj\Debug\Number_speaker_Projects.Properties.Resources.resources
+D:\Developing\Application Projects\Number speaker Projects\Number speaker Projects\obj\Debug\Number speaker Projects.csproj.GenerateResource.cache
+D:\Developing\Application Projects\Number speaker Projects\Number speaker Projects\obj\Debug\Number speaker Projects.csproj.CoreCompileInputs.cache
+D:\Developing\Application Projects\Number speaker Projects\Number speaker Projects\obj\Debug\Number speaker Projects.exe
+D:\Developing\Application Projects\Number speaker Projects\Number speaker Projects\obj\Debug\Number speaker Projects.pdb
+D:\Developing\Application Projects\Number speaker Projects\Number speaker Projects\obj\Debug\Number s.BCCB2A3A.Up2Date
+D:\Developing\Application Projects\Number speaker Projects\Number speaker Projects\obj\Debug\Number_speaker_Projects.Main.resources

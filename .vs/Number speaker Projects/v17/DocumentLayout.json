@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Developing\\Application Projects\\Number speaker Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B311DB5-B326-48B7-B791-389F63ADB33B}|Number speaker Projects\\Number speaker Projects.csproj|d:\\developing\\application projects\\number speaker projects\\number speaker projects\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B311DB5-B326-48B7-B791-389F63ADB33B}|Number speaker Projects\\Number speaker Projects.csproj|solutionrelative:number speaker projects\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B311DB5-B326-48B7-B791-389F63ADB33B}|Number speaker Projects\\Number speaker Projects.csproj|d:\\developing\\application projects\\number speaker projects\\number speaker projects\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B311DB5-B326-48B7-B791-389F63ADB33B}|Number speaker Projects\\Number speaker Projects.csproj|solutionrelative:number speaker projects\\audioplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B311DB5-B326-48B7-B791-389F63ADB33B}|Number speaker Projects\\Number speaker Projects.csproj|d:\\developing\\application projects\\number speaker projects\\number speaker projects\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B311DB5-B326-48B7-B791-389F63ADB33B}|Number speaker Projects\\Number speaker Projects.csproj|solutionrelative:number speaker projects\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B311DB5-B326-48B7-B791-389F63ADB33B}|Number speaker Projects\\Number speaker Projects.csproj|D:\\Developing\\Application Projects\\Number speaker Projects\\number speaker projects\\translator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B311DB5-B326-48B7-B791-389F63ADB33B}|Number speaker Projects\\Number speaker Projects.csproj|solutionrelative:number speaker projects\\translator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B311DB5-B326-48B7-B791-389F63ADB33B}|Number speaker Projects\\Number speaker Projects.csproj|d:\\developing\\application projects\\number speaker projects\\number speaker projects\\speaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B311DB5-B326-48B7-B791-389F63ADB33B}|Number speaker Projects\\Number speaker Projects.csproj|solutionrelative:number speaker projects\\speaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Developing\\Application Projects\\Number speaker Projects\\Number speaker Projects\\Form1.cs",
+              "RelativeDocumentMoniker": "Number speaker Projects\\Form1.cs",
+              "ToolTip": "D:\\Developing\\Application Projects\\Number speaker Projects\\Number speaker Projects\\Form1.cs [Design]",
+              "RelativeToolTip": "Number speaker Projects\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:48:38.293Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AudioPlayer.cs",
+              "DocumentMoniker": "D:\\Developing\\Application Projects\\Number speaker Projects\\Number speaker Projects\\AudioPlayer.cs",
+              "RelativeDocumentMoniker": "Number speaker Projects\\AudioPlayer.cs",
+              "ToolTip": "D:\\Developing\\Application Projects\\Number speaker Projects\\Number speaker Projects\\AudioPlayer.cs",
+              "RelativeToolTip": "Number speaker Projects\\AudioPlayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:25:24.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Developing\\Application Projects\\Number speaker Projects\\Number speaker Projects\\Form1.cs",
+              "RelativeDocumentMoniker": "Number speaker Projects\\Form1.cs",
+              "ToolTip": "D:\\Developing\\Application Projects\\Number speaker Projects\\Number speaker Projects\\Form1.cs",
+              "RelativeToolTip": "Number speaker Projects\\Form1.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T13:05:10.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Translator.cs",
+              "DocumentMoniker": "D:\\Developing\\Application Projects\\Number speaker Projects\\Number speaker Projects\\Translator.cs",
+              "RelativeDocumentMoniker": "Number speaker Projects\\Translator.cs",
+              "ToolTip": "D:\\Developing\\Application Projects\\Number speaker Projects\\Number speaker Projects\\Translator.cs",
+              "RelativeToolTip": "Number speaker Projects\\Translator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T12:52:12.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Speaker.cs",
+              "DocumentMoniker": "D:\\Developing\\Application Projects\\Number speaker Projects\\Number speaker Projects\\Speaker.cs",
+              "RelativeDocumentMoniker": "Number speaker Projects\\Speaker.cs",
+              "ToolTip": "D:\\Developing\\Application Projects\\Number speaker Projects\\Number speaker Projects\\Speaker.cs",
+              "RelativeToolTip": "Number speaker Projects\\Speaker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T13:17:20.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
